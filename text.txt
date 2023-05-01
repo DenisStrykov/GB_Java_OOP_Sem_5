@@ -1,0 +1,1 @@
+User{name='Ivan', age=25}User{name='Денис', age=26}User{userID=5, name='fsg', age=5}
